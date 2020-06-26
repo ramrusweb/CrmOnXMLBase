@@ -1,0 +1,33 @@
+C:\Users\rrm1\Desktop\Diploma\Worldyachts\Worldyachts\bin\Debug\Model\XMLBase\companies.xml
+C:\Users\rrm1\Desktop\Diploma\Worldyachts\Worldyachts\bin\Debug\Worldyachts.exe.config
+C:\Users\rrm1\Desktop\Diploma\Worldyachts\Worldyachts\bin\Debug\Worldyachts.exe
+C:\Users\rrm1\Desktop\Diploma\Worldyachts\Worldyachts\bin\Debug\Worldyachts.pdb
+C:\Users\rrm1\Desktop\Diploma\Worldyachts\Worldyachts\obj\Debug\Worldyachts.Properties.Resources.resources
+C:\Users\rrm1\Desktop\Diploma\Worldyachts\Worldyachts\obj\Debug\Worldyachts.Visual.AddNewClientForm.resources
+C:\Users\rrm1\Desktop\Diploma\Worldyachts\Worldyachts\obj\Debug\Worldyachts.Visual.ClientsInfoForm.resources
+C:\Users\rrm1\Desktop\Diploma\Worldyachts\Worldyachts\obj\Debug\Worldyachts.csproj.GenerateResource.cache
+C:\Users\rrm1\Desktop\Diploma\Worldyachts\Worldyachts\obj\Debug\Worldyachts.csproj.CoreCompileInputs.cache
+C:\Users\rrm1\Desktop\Diploma\Worldyachts\Worldyachts\obj\Debug\Worldyachts.exe
+C:\Users\rrm1\Desktop\Diploma\Worldyachts\Worldyachts\obj\Debug\Worldyachts.pdb
+C:\Users\rrm1\Desktop\Diploma\Worldyachts\Worldyachts\obj\Debug\Worldyachts.Visual.MainScreenForm.resources
+C:\Users\rrm1\Desktop\Diploma\Worldyachts1\Worldyachts\bin\Debug\Model\XMLBase\companies.xml
+C:\Users\rrm1\Desktop\Diploma\Worldyachts1\Worldyachts\bin\Debug\Worldyachts.exe.config
+C:\Users\rrm1\Desktop\Diploma\Worldyachts1\Worldyachts\bin\Debug\Worldyachts.exe
+C:\Users\rrm1\Desktop\Diploma\Worldyachts1\Worldyachts\bin\Debug\Worldyachts.pdb
+C:\Users\rrm1\Desktop\Diploma\Worldyachts1\Worldyachts\obj\Debug\Worldyachts.csprojAssemblyReference.cache
+C:\Users\rrm1\Desktop\Diploma\Worldyachts1\Worldyachts\obj\Debug\Worldyachts.Properties.Resources.resources
+C:\Users\rrm1\Desktop\Diploma\Worldyachts1\Worldyachts\obj\Debug\Worldyachts.Visual.AddNewClientForm.resources
+C:\Users\rrm1\Desktop\Diploma\Worldyachts1\Worldyachts\obj\Debug\Worldyachts.Visual.ClientsInfoForm.resources
+C:\Users\rrm1\Desktop\Diploma\Worldyachts1\Worldyachts\obj\Debug\Worldyachts.Visual.MainScreenForm.resources
+C:\Users\rrm1\Desktop\Diploma\Worldyachts1\Worldyachts\obj\Debug\Worldyachts.csproj.GenerateResource.cache
+C:\Users\rrm1\Desktop\Diploma\Worldyachts1\Worldyachts\obj\Debug\Worldyachts.csproj.CoreCompileInputs.cache
+C:\Users\rrm1\Desktop\Diploma\Worldyachts1\Worldyachts\obj\Debug\Worldyachts.exe
+C:\Users\rrm1\Desktop\Diploma\Worldyachts1\Worldyachts\obj\Debug\Worldyachts.pdb
+C:\Users\rrm1\Desktop\Diploma\Worldyachts\Worldyachts\obj\Debug\Worldyachts.csprojAssemblyReference.cache
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts2\Worldyachts\obj\Debug\Worldyachts.csprojAssemblyReference.cache
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts2\Worldyachts\obj\Debug\Worldyachts.Properties.Resources.resources
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts2\Worldyachts\obj\Debug\Worldyachts.Visual.AddNewClientForm.resources
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts2\Worldyachts\obj\Debug\Worldyachts.Visual.ClientsInfoForm.resources
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts2\Worldyachts\obj\Debug\Worldyachts.Visual.MainScreenForm.resources
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts2\Worldyachts\obj\Debug\Worldyachts.csproj.GenerateResource.cache
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts2\Worldyachts\obj\Debug\Worldyachts.csproj.CoreCompileInputs.cache
